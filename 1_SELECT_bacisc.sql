@@ -1,4 +1,4 @@
--- Modify query to show the population of Germany
+--  Modify query to show the population of Germany
 
 SELECT population FROM world
   WHERE name = 'Germany'
